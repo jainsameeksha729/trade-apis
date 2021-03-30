@@ -1,0 +1,21 @@
+exports.MSG = {
+  NOT_FOUND: "NOT_FOUND",
+  SAVED: "Data saved successfully",
+  SAVED_ERROR: "Couldn't save the data",
+  DELETE_ERROR: "Couldn't delete the trade, insufficient shares",
+  UPDATE_ERROR: "Couldn't update the trade, insufficient shares",
+  DATA_NOT_FOUND: "Data not found",
+  FAILED: "FAILED",
+  SUCCESS: "SUCCESS",
+  USER_ADD: "USER_ADD",
+  USER_NOT_FOUND: "USER_NOT_FOUND",
+  PORTFOLIO_NOT_FOUND: "PORTFOLIO_NOT_FOUND",
+  SHARE_UNSUFFICIENT: "SHARE_UNSUFFICIENT",
+  SUBMITTED: "SUBMITTED",
+  TRADE_ID_REQUIRED: "TRADE_ID_REQUIRED",
+  DELETED: "DELETED",
+  TRADE_UPDATED: "TRADE_UPDATED",
+  BUY: "BUY",
+  SOLD: "SOLD",
+  TRADE_NOT_FOUND: "TRADE_NOT_FOUND"
+};
