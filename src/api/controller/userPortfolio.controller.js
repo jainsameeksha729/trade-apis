@@ -48,6 +48,7 @@ exports.fetchReturn = async (req, res, next) => {
       }
     
   } catch (error) {
+    console.log(error)
     handleResponse.error(
       res,
       new APIError({
